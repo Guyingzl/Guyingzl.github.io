@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##悟已往之不谏知来者犹可追
 
 You can use the [editor on GitHub](https://github.com/Guyingzl/Guyingzl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
